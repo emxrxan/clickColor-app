@@ -1,0 +1,15 @@
+.searchContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1rem;
+}
+
+.searchContainer > input,
+.searchContainer > button{
+    padding: 0.2rem;
+}
+
+.searchContainer > button:hover{cursor: pointer;}
