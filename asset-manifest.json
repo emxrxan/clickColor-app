@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clickColor-app/static/css/main.ab2f4307.css",
+    "main.js": "/clickColor-app/static/js/main.ba64c643.js",
+    "static/js/787.05b7a068.chunk.js": "/clickColor-app/static/js/787.05b7a068.chunk.js",
+    "index.html": "/clickColor-app/index.html",
+    "main.ab2f4307.css.map": "/clickColor-app/static/css/main.ab2f4307.css.map",
+    "main.ba64c643.js.map": "/clickColor-app/static/js/main.ba64c643.js.map",
+    "787.05b7a068.chunk.js.map": "/clickColor-app/static/js/787.05b7a068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2f4307.css",
+    "static/js/main.ba64c643.js"
+  ]
+}
